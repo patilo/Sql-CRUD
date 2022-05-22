@@ -26,3 +26,5 @@ create table poductos (
 -- un nuevo atributo, le decimos que tiene como llave foranea
 -- el id de los vendedores y creamos "vendido_por" para
 -- enlazarlo con la otra tabla
+rename table vendedores to vendedor; -- le cambiamos los nombres de las tablas a ambas
+rename table poductos to producto;
