@@ -1,2 +1,2 @@
 # base-de-datos---sql
-querys para sql (crud - joins - groups)
+querys with sql (crud - joins - groups)
